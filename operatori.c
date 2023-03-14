@@ -2,7 +2,7 @@
 int main()
 
 {
-    int eta = 5;
+    int eta;
 
     printf("ciao utente quanti anni hai?\n");
     scanf("%d", &eta);
