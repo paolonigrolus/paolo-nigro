@@ -21,10 +21,10 @@ int main()
         if (divisore == a)
         {
             array[z] = a;
-            divisore = 2;
             z++;
         }
         a++;     
+        divisore = 2;
     }    
     z =0;
     while (z<i)
